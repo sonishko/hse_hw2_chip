@@ -39,3 +39,13 @@
 2. Проанализируйте полученные результаты и приведите свои рассуждения в README.md. Как можно объяснить различия в количестве пересечений?
 
 Количество пересечений отличается, поскольку в одном случае берутся полученные мной пики, пересекающиеся с пиками ENCODE; а в другом случае отбираются пики ENCODE, совпавшие с пиками, которые получила я.
+
+# Бонус
+[Гугл-коллаб](https://colab.research.google.com/drive/1oylmCB2EMnaVDva9Lrr3dejQ2-cmussd?usp=sharing)
+![result](https://user-images.githubusercontent.com/99287058/222255249-75c46c3b-610b-4378-b2e8-597185710a2d.png) | ![result2](https://user-images.githubusercontent.com/99287058/222276324-42686ac9-8380-46af-886c-c0dead12f855.png)
+
+
+<img width="562" alt="Снимок экрана 2023-03-01 в 23 19 21" src="https://user-images.githubusercontent.com/99287058/222256319-06a8c35a-69ec-4cfa-bba0-b07ce03d2a86.png">
+Полученное распределение совпадает с теоретическим из статьи.
+
+
